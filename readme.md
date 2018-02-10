@@ -1,4 +1,4 @@
-# scalajs-find-java-home
+# scalajs-java-home
 
 [![](https://travis-ci.org/laughedelic/scalajs-find-java-home.svg?branch=master)](https://travis-ci.org/laughedelic/scalajs-find-java-home)
 [![](http://img.shields.io/github/release/laughedelic/scalajs-find-java-home/all.svg)](https://github.com/laughedelic/scalajs-find-java-home/releases/latest)

@@ -1,4 +1,4 @@
-name         := "scalajs-find-java-home"
+name         := "scalajs-java-home"
 organization := "laughedelic"
 description  := "Scala.js facades for the find-java-home npm package"
 
