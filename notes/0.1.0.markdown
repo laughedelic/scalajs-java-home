@@ -1,0 +1,1 @@
+First release: Scala.js facade for the [find-java-home](https://github.com/jsdevel/node-find-java-home) npm package
